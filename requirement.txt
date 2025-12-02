@@ -31,3 +31,4 @@ langchain-tavily
 arxiv
 langgraph-supervisor
 ipykernel
+pyppeteer
